@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "diesel-monitor-421118",
+  "private_key_id": "886ca24cb60038cbb13ca8bff6cd28fbff038b94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQk4fSLf8Q5F6R\nUGf8n2c8DiO97sNjc2xOtfFvbiYlFzgk1ROXmkSM2HYqoH5ybxOxUJP6eyS/iPa8\nI/ymJ1tl2cBJx9/mwC7yqdarsLQZS9D17OM05JPbwwDoGbMI7zrVfSs6qLg+Oitu\nvDeZQN3U+wEVU5UjkjPnjOWNH6ooG/KSYj4ZBe8BOCxN9GM5wLkEPOxo+dkji7ch\n+dmdwVRffDyAb5aR7eHRKbPiBbw/Bp2PyeXF3XtxjwTt9APcsFQiUeouSuS2hCAo\nz0YuugRJlStBxj+f68d+o5jpnErk/j3zTW3f8+gaRfLwadG720W/QHZ9H/B1Snok\nEbvSJosjAgMBAAECggEAEZ5kurxn72VbF6tTHWPZtJj9K+4fUydM3tk/q8oCLt/n\nPjVBkmzVnZAray5jgAciArhrx5zfXc6UCRCBJwfsEI50T8cygqt5S8ZM+/PRQtHE\ntQFtr+ofE1FFolWJahfLQH1ySWI3Lgp74L7Fc4ynMHaDgOmuj3KqL8UXHvStyvVq\nWrfGnWCk0P5SP34NnWxcaxgig7knVFx6KIJXlJny0FZiiBJDgPwoywhNNUuo94MT\nn4D5sZJ2FZ4yxeFSeKV06NO+QZ02FaXoJXJHAPyFNpDt3XA5jAydHxk0W0veYEln\n4qjdCslTVFvaHDshB8kHXDhuDtIVWtaiEbBuX/TeAQKBgQDtRZEeJ2nc34b3G3wV\n9GxzuMVoWjChLvTatkx+KDGPNXSMm4jDx+eH5i7xz+CFQEIMMXgQSOrcp74oRm5G\nBeAx+lxm8KQPlyiohzOge5uuA8IXwXGS8Emb1E3sR6bsOFJGcUFUxiIoIJ1tRzpZ\n8xz+I4EAnlBItW9Mk0zCc0pkOwKBgQDhCiD4fdoeokl5XhvzNs9gU2UhGtMQ20HX\nwC+SoSTiSK4HRZrR5ifvCr5yRkRezWDojjMSx9qXBBGVb9d7h0deKoS5ATDVuusb\nXFEVRXPgfQgkmBhrv6BER6Mz0sfKIrGCDF76mMj1Wp75cu58FrSzY4bBANbcbG9M\nQXx2ZKEOOQKBgQCJq5W6E1BfcesTsgTbkEjlFE6mb75Lp702shPMF3I6D+AiPZSr\nVHBI8AxJDj7N0i0AeiuZ91Ue1s2E/Oi7BGnDVesLZ5Ep4qEat+gCs/XukAusUPef\nNIDhQ9w6vpBh+4Pxj4FCuPvUoKf3Yh6/Vkp6Qwt02mbm6S89FTKymMaPRQKBgFzL\nYG0W+CpJoSJ6u+u+XiTKPpk4BnCc+LmOdg9wg1ULwzccbIrA7RaUx5M3hlnRNnSu\nrkDASFKdSuLkC2bUkYky3yeqZgi72tadapHq4a1f4Uu1q9xCWEPPhmyILfob9DY8\nA64x8iu6AnO6AL0KX9jY4WgUgITD8eDv3/Kx6/eBAoGBAKDhIx3MQEz2lk/Mufmj\n/LFEj6iEkShQry/ZzqdsRkmLQ/JirmNkD/z32IcORRFaOwDLq6nHaaKpfvo57Mrx\nsPz2Y9HfUvHY4iFZxYz1JBjfjpzdF+B4bvh4iZHcDbc2bCjrARHQO/zq1PdiC8HE\nfCrFaEcAoDrWA9HWtykBzAPT\n-----END PRIVATE KEY-----\n",
+  "client_email": "uploadapi@diesel-monitor-421118.iam.gserviceaccount.com",
+  "client_id": "104392139272689436239",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uploadapi%40diesel-monitor-421118.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
